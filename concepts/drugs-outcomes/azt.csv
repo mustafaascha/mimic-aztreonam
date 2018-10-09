@@ -1,0 +1,387 @@
+,Id,Code,Name,Class,Standard Concept Caption,RC,DRC,Domain,Vocabulary
+,21602919,J01DF01,Aztreonam,ATC 5th,Classification,0,265,Drug,ATC
+,4348336,N0000005876,Aztreonam,Chemical Structure,Classification,0,265,Drug,NDFRT
+,1715117,1272,Aztreonam,Ingredient,Standard,132,265,Drug,RxNorm
+,45667209,9a105eaf-ee77-4016-beeb-d425a5565db2,Aztreonam,Prescription Drug,Classification,0,240,Drug,SPL
+,45703447,1b11750e-4db4-4dd3-8b21-c9917b00aeaa,Aztreonam,Prescription Drug,Classification,0,240,Drug,SPL
+,46314450,5f5ebb63-6ac5-4fb4-bcc1-d069c123eb18,Aztreonam,Prescription Drug,Classification,0,240,Drug,SPL
+,46239928,302fd27d-0a22-44ea-91fb-1b1ffcf17a1f,Aztreonam,Prescription Drug,Classification,0,240,Drug,SPL
+,45707154,c6cf7e13-a04e-47e2-9cec-44a278ee6bec,Aztreonam,Prescription Drug,Classification,0,240,Drug,SPL
+,45646356,d598f95b-92dd-4ef5-ae97-d68972258e44,Aztreonam,Prescription Drug,Classification,0,228,Drug,SPL
+,45779415,0d2b8cc7-2781-44e4-8aa7-f613eebb87db,Aztreonam,Prescription Drug,Classification,0,157,Drug,SPL
+,45638488,67300ca3-8c53-4ce4-8e86-2c03be1f9b8a,Aztreonam,Prescription Drug,Classification,0,157,Drug,SPL
+,36212966,1155015,Aztreonam,Clinical Dose Group,Classification,0,108,Drug,RxNorm
+,46287306,1664980,Aztreonam,Clinical Drug Form,Standard,0,108,Drug,RxNorm
+,46287305,1664979,Aztreonam,Clinical Drug Comp,Standard,0,96,Drug,RxNorm
+,46287307,1664981,Aztreonam,Clinical Drug,Standard,80,96,Drug,RxNorm
+,40173626,901608,Aztreonam,Clinical Drug Comp,Standard,0,25,Drug,RxNorm
+,40173629,901612,Aztreonam,Branded Drug Comp,Standard,0,25,Drug,RxNorm
+,40173627,901610,Aztreonam,Clinical Drug,Standard,0,25,Drug,RxNorm
+,40173628,901614,Aztreonam,Branded Drug,Standard,25,25,Drug,RxNorm
+,36212965,1155014,Aztreonam,Clinical Dose Group,Classification,0,25,Drug,RxNorm
+,40173630,901609,Aztreonam,Clinical Drug Form,Standard,0,25,Drug,RxNorm
+,40173631,901613,Aztreonam,Branded Drug Form,Standard,0,25,Drug,RxNorm
+,46287309,1664983,Aztreonam,Branded Drug Form,Standard,0,20,Drug,RxNorm
+,46287308,1664982,Aztreonam,Branded Drug Comp,Standard,0,16,Drug,RxNorm
+,46287310,1664984,Aztreonam,Branded Drug,Standard,16,16,Drug,RxNorm
+,46287311,1664985,Aztreonam,Clinical Drug Comp,Standard,0,12,Drug,RxNorm
+,46287312,1664986,Aztreonam,Clinical Drug,Standard,8,12,Drug,RxNorm
+,46287313,1664987,Aztreonam,Branded Drug Comp,Standard,0,4,Drug,RxNorm
+,46287314,1664988,Aztreonam,Branded Drug,Standard,4,4,Drug,RxNorm
+,41425266,OMOP2623228,Aztreonam,Quant Clinical Drug,Standard,0,0,Drug,RxNorm Extension
+,41420541,OMOP2618503,Aztreonam,Quant Branded Drug,Standard,0,0,Drug,RxNorm Extension
+,41423136,OMOP2621098,Aztreonam,Quant Branded Box,Standard,0,0,Drug,RxNorm Extension
+,41423135,OMOP2621097,Aztreonam,Quant Branded Box,Standard,0,0,Drug,RxNorm Extension
+,41415821,OMOP2613783,Aztreonam,Quant Clinical Box,Standard,0,0,Drug,RxNorm Extension
+,41422710,OMOP2620672,Aztreonam,Quant Clinical Box,Standard,0,0,Drug,RxNorm Extension
+,41421816,OMOP2619778,Aztreonam,Quant Clinical Drug,Standard,0,0,Drug,RxNorm Extension
+,41424816,OMOP2622778,Aztreonam,Quant Branded Drug,Standard,0,0,Drug,RxNorm Extension
+,41364476,OMOP2562438,Aztreonam,Quant Clinical Drug,Standard,0,0,Drug,RxNorm Extension
+,41369391,OMOP2567353,Aztreonam,Quant Branded Drug,Standard,0,0,Drug,RxNorm Extension
+,41365567,OMOP2563529,Aztreonam,Quant Branded Box,Standard,0,0,Drug,RxNorm Extension
+,41364110,OMOP2562072,Aztreonam,Quant Branded Box,Standard,0,0,Drug,RxNorm Extension
+,41363028,OMOP2560990,Aztreonam,Quant Clinical Box,Standard,0,0,Drug,RxNorm Extension
+,41368994,OMOP2566956,Aztreonam,Quant Clinical Box,Standard,0,0,Drug,RxNorm Extension
+,41366319,OMOP2564281,Aztreonam,Quant Branded Drug,Standard,0,0,Drug,RxNorm Extension
+,41369773,OMOP2567735,Aztreonam,Quant Clinical Drug,Standard,0,0,Drug,RxNorm Extension
+,41373157,OMOP2571119,Aztreonam,Quant Branded Drug,Standard,0,0,Drug,RxNorm Extension
+,41367092,OMOP2565054,Aztreonam,Quant Branded Box,Standard,0,0,Drug,RxNorm Extension
+,41370123,OMOP2568085,Aztreonam,Quant Branded Box,Standard,0,0,Drug,RxNorm Extension
+,41368995,OMOP2566957,Aztreonam,Quant Clinical Box,Standard,0,0,Drug,RxNorm Extension
+,41362280,OMOP2560242,Aztreonam,Quant Clinical Box,Standard,0,0,Drug,RxNorm Extension
+,41364823,OMOP2562785,Aztreonam,Quant Branded Drug,Standard,0,0,Drug,RxNorm Extension
+,41371267,OMOP2569229,Aztreonam,Quant Clinical Drug,Standard,0,0,Drug,RxNorm Extension
+,41368586,OMOP2566548,Aztreonam,Quant Branded Drug,Standard,0,0,Drug,RxNorm Extension
+,41364822,OMOP2562784,Aztreonam,Quant Branded Box,Standard,0,0,Drug,RxNorm Extension
+,41364109,OMOP2562071,Aztreonam,Quant Branded Box,Standard,0,0,Drug,RxNorm Extension
+,41365206,OMOP2563168,Aztreonam,Quant Clinical Box,Standard,0,0,Drug,RxNorm Extension
+,41371266,OMOP2569228,Aztreonam,Quant Clinical Box,Standard,0,0,Drug,RxNorm Extension
+,41362638,OMOP2560600,Aztreonam,Quant Branded Drug,Standard,0,0,Drug,RxNorm Extension
+,36277673,OMOP3128548,Aztreonam,Quant Clinical Drug,Standard,0,0,Drug,RxNorm Extension
+,36277730,OMOP3128605,Aztreonam,Quant Clinical Box,Standard,0,0,Drug,RxNorm Extension
+,36277804,OMOP3128679,Aztreonam,Quant Branded Drug,Standard,0,0,Drug,RxNorm Extension
+,36277858,OMOP3128733,Aztreonam,Quant Branded Box,Standard,0,0,Drug,RxNorm Extension
+,36277762,OMOP3128637,Aztreonam,Marketed Product,Standard,0,0,Drug,RxNorm Extension
+,40175509,968700,Aztreonam,Clinical Drug,Non-Standard,0,0,Drug,RxNorm
+,40175510,968702,Aztreonam,Branded Drug,Non-Standard,0,0,Drug,RxNorm
+,40175963,968703,Aztreonam,Branded Pack,Non-Standard,0,0,Drug,RxNorm
+,40175964,968701,Aztreonam,Clinical Pack,Non-Standard,0,0,Drug,RxNorm
+,43077116,1917,Aztreonam,Ingredient,Non-Standard,0,0,Drug,Multilex
+,45635687,e2b0e39d-e124-4304-a0e3-7588339e8f31,Aztreonam,SPL,Non-Standard,0,0,Drug,SPL
+,44152733,DPD133347,Aztreonam,Ingredient,Non-Standard,0,0,Drug,DPD
+,43228341,79481,Aztreonam,Ingredient,Non-Standard,0,0,Drug,BDPM
+,4305894,387386004,Aztreonam,Substance,Non-Standard,0,0,Drug,SNOMED
+,4321414,69918003,Aztreonam,Pharma/Biol Product,Non-Standard,0,0,Drug,SNOMED
+,44520087,OMOP100187,Aztreonam,Ingredient,Non-Standard,0,0,Drug,DPD
+,4288176,N0000146126,Aztreonam,Pharma Preparation,Non-Standard,0,0,Drug,NDFRT
+,40923422,OMOP2121384,Aztreonam,Branded Drug Comp,Standard,0,0,Drug,RxNorm Extension
+,41274659,OMOP2472621,Aztreonam,Clinical Drug,Standard,0,0,Drug,RxNorm Extension
+,41255369,OMOP2453331,Aztreonam,Branded Drug,Standard,0,0,Drug,RxNorm Extension
+,35754450,OMOP2755911,Aztreonam,Branded Drug Box,Standard,0,0,Drug,RxNorm Extension
+,35743226,OMOP2744687,Aztreonam,Marketed Product,Standard,0,0,Drug,RxNorm Extension
+,41317707,OMOP2515669,Aztreonam,Branded Drug Box,Standard,0,0,Drug,RxNorm Extension
+,41255368,OMOP2453330,Aztreonam,Branded Drug Box,Standard,0,0,Drug,RxNorm Extension
+,41293515,OMOP2491477,Aztreonam,Marketed Product,Standard,0,0,Drug,RxNorm Extension
+,35743227,OMOP2744688,Aztreonam,Marketed Product,Standard,0,0,Drug,RxNorm Extension
+,35749823,OMOP2751284,Aztreonam,Clinical Drug Box,Standard,0,0,Drug,RxNorm Extension
+,40869147,OMOP2067109,Aztreonam,Clinical Drug Box,Standard,0,0,Drug,RxNorm Extension
+,40962621,OMOP2160583,Aztreonam,Clinical Drug Box,Standard,0,0,Drug,RxNorm Extension
+,41005621,OMOP2203583,Aztreonam,Branded Drug,Standard,0,0,Drug,RxNorm Extension
+,45310695,55390017710,Aztreonam,11-digit NDC,Non-Standard,0,0,Drug,NDC
+,46255631,63323040126,Aztreonam,11-digit NDC,Non-Standard,0,0,Drug,NDC
+,45159318,63323040120,Aztreonam,11-digit NDC,Non-Standard,0,0,Drug,NDC
+,45869969,63323040124,Aztreonam,11-digit NDC,Non-Standard,0,0,Drug,NDC
+,45190656,55154105405,Aztreonam,11-digit NDC,Non-Standard,0,0,Drug,NDC
+,45230182,3223011,Aztreonam,11-digit NDC,Non-Standard,0,0,Drug,NDC
+,45332429,3256016,Aztreonam,11-digit NDC,Non-Standard,0,0,Drug,NDC
+,21034782,OMOP398535,Aztreonam,Branded Drug Box,Standard,0,0,Drug,RxNorm Extension
+,21083920,OMOP398536,Aztreonam,Marketed Product,Standard,0,0,Drug,RxNorm Extension
+,21083919,OMOP398534,Aztreonam,Marketed Product,Standard,0,0,Drug,RxNorm Extension
+,21132854,OMOP398533,Aztreonam,Clinical Drug Box,Standard,0,0,Drug,RxNorm Extension
+,36892879,OMOP997567,Aztreonam,Clinical Drug,Standard,0,0,Drug,RxNorm Extension
+,36886126,OMOP999257,Aztreonam,Branded Drug,Standard,0,0,Drug,RxNorm Extension
+,36892008,OMOP992006,Aztreonam,Branded Drug Box,Standard,0,0,Drug,RxNorm Extension
+,43151291,OMOP496192,Aztreonam,Marketed Product,Standard,0,0,Drug,RxNorm Extension
+,36885991,OMOP1004809,Aztreonam,Clinical Drug Box,Standard,0,0,Drug,RxNorm Extension
+,41233485,OMOP2431447,Aztreonam,Clinical Drug Comp,Standard,0,0,Drug,RxNorm Extension
+,41266816,OMOP2464778,Aztreonam,Branded Drug Comp,Standard,0,0,Drug,RxNorm Extension
+,41235901,OMOP2433863,Aztreonam,Branded Drug Comp,Standard,0,0,Drug,RxNorm Extension
+,41024877,OMOP2222839,Aztreonam,Clinical Drug,Standard,0,0,Drug,RxNorm Extension
+,41255367,OMOP2453329,Aztreonam,Branded Drug,Standard,0,0,Drug,RxNorm Extension
+,40849764,OMOP2047726,Aztreonam,Branded Drug Box,Standard,0,0,Drug,RxNorm Extension
+,41005622,OMOP2203584,Aztreonam,Branded Drug Box,Standard,0,0,Drug,RxNorm Extension
+,40900219,OMOP2098181,Aztreonam,Clinical Drug Box,Standard,0,0,Drug,RxNorm Extension
+,40900218,OMOP2098180,Aztreonam,Clinical Drug Box,Standard,0,0,Drug,RxNorm Extension
+,41317705,OMOP2515667,Aztreonam,Branded Drug,Standard,0,0,Drug,RxNorm Extension
+,41171025,OMOP2368987,Aztreonam,Clinical Drug Comp,Standard,0,0,Drug,RxNorm Extension
+,41079576,OMOP2277538,Aztreonam,Branded Drug Comp,Standard,0,0,Drug,RxNorm Extension
+,41118896,OMOP2316858,Aztreonam,Clinical Drug,Standard,0,0,Drug,RxNorm Extension
+,41118895,OMOP2316857,Aztreonam,Clinical Drug Box,Standard,0,0,Drug,RxNorm Extension
+,41317706,OMOP2515668,Aztreonam,Branded Drug,Standard,0,0,Drug,RxNorm Extension
+,40849765,OMOP2047727,Aztreonam,Branded Drug Box,Standard,0,0,Drug,RxNorm Extension
+,40950234,OMOP2148196,Aztreonam,Marketed Product,Standard,0,0,Drug,RxNorm Extension
+,41233484,OMOP2431446,Aztreonam,Clinical Drug Comp,Standard,0,0,Drug,RxNorm Extension
+,41235900,OMOP2433862,Aztreonam,Branded Drug Comp,Standard,0,0,Drug,RxNorm Extension
+,40869145,OMOP2067107,Aztreonam,Clinical Drug,Standard,0,0,Drug,RxNorm Extension
+,41150400,OMOP2348362,Aztreonam,Clinical Drug Box,Standard,0,0,Drug,RxNorm Extension
+,41286376,OMOP2484338,Aztreonam,Branded Drug,Standard,0,0,Drug,RxNorm Extension
+,41099400,OMOP2297362,Aztreonam,Branded Drug Box,Standard,0,0,Drug,RxNorm Extension
+,45623178,a5fce801-f057-467e-ac01-a2966f9c76dd,Aztreonam,Prescription Drug,Classification,0,0,Drug,SPL
+,44397626,a61e1b87-53c7-40d6-b30c-7b00f851e17c,Aztreonam,Prescription Drug,Classification,0,0,Drug,SPL
+,42810428,4ea52814-9a61-4e3a-8426-f1e46d675437,Aztreonam,Prescription Drug,Classification,0,0,Drug,SPL
+,45897625,e8fb3eb8-39ee-43dc-b0dc-21f79f9b1d3f,Aztreonam,Prescription Drug,Classification,0,0,Drug,SPL
+,45792656,8b9fb753-74fe-4e7c-8532-ba985db52454,Aztreonam,Prescription Drug,Classification,0,0,Drug,SPL
+,46325326,4c742a5c-0d12-44f5-bae7-c6b083a3fe22,Aztreonam,Prescription Drug,Classification,0,0,Drug,SPL
+,45800385,d84afe3b-ca13-44cf-b0de-410165d07149,Aztreonam,Prescription Drug,Classification,0,0,Drug,SPL
+,45013326,63323401,Aztreonam,9-digit NDC,Non-Standard,0,0,Drug,NDC
+,45366472,32560,Aztreonam,9-digit NDC,Non-Standard,0,0,Drug,NDC
+,45190655,551541054,Aztreonam,9-digit NDC,Non-Standard,0,0,Drug,NDC
+,45846707,633230401,Aztreonam,9-digit NDC,Non-Standard,0,0,Drug,NDC
+,45649549,66c3b04a-c7ec-4784-a515-2f5601c648ba,Aztreonam,Prescription Drug,Classification,0,0,Drug,SPL
+,42817471,7d3fca83-3050-43ac-a343-0a32039361b4,Aztreonam,Prescription Drug,Classification,0,0,Drug,SPL
+,45349520,32230,Aztreonam,9-digit NDC,Non-Standard,0,0,Drug,NDC
+,45414603,727,Aztreonam,Multum,Non-Standard,0,0,Drug,Multum
+,45412163,729,Aztreonam,Multum,Non-Standard,0,0,Drug,Multum
+,42854524,N0000150213,Aztreonam,VA Product,Non-Standard,0,0,Drug,VA Product
+,42557992,4002038,Aztreonam,VA Product,Non-Standard,0,0,Drug,VA Product
+,4282427,4002039,Aztreonam,VA Product,Non-Standard,0,0,Drug,VA Product
+,42546876,MTHU001391,Aztreonam,VA Product,Non-Standard,0,0,Drug,VA Product
+,43078228,2003070,Aztreonam,Clinical Drug,Non-Standard,0,0,Drug,Multilex
+,37800095,60203020,Aztreonam,Gemscript,Non-Standard,0,0,Drug,Gemscript
+,4206045,323961007,Aztreonam,Pharma/Biol Product,Non-Standard,0,0,Drug,SNOMED
+,37889162,96929997,Aztreonam,Gemscript THIN,Non-Standard,0,0,Drug,Gemscript
+,37889152,96927997,Aztreonam,Gemscript THIN,Non-Standard,0,0,Drug,Gemscript
+,46098812,4343211000001100,Aztreonam,Pharma/Biol Product,Non-Standard,0,0,Drug,SNOMED
+,40013092,350570,Aztreonam,Clinical Drug Comp,Non-Standard,0,0,Drug,RxNorm
+,40013093,349247,Aztreonam,Clinical Drug,Non-Standard,0,0,Drug,RxNorm
+,41235899,OMOP2433861,Aztreonam,Branded Drug Comp,Standard,0,0,Drug,RxNorm Extension
+,41118894,OMOP2316856,Aztreonam,Clinical Drug,Standard,0,0,Drug,RxNorm Extension
+,40880981,OMOP2078943,Aztreonam,Branded Drug,Standard,0,0,Drug,RxNorm Extension
+,35754451,OMOP2755912,Aztreonam,Branded Drug Box,Standard,0,0,Drug,RxNorm Extension
+,35751557,OMOP2753018,Aztreonam,Marketed Product,Standard,0,0,Drug,RxNorm Extension
+,40912029,OMOP2109991,Aztreonam,Branded Drug Box,Standard,0,0,Drug,RxNorm Extension
+,40849763,OMOP2047725,Aztreonam,Branded Drug Box,Standard,0,0,Drug,RxNorm Extension
+,35743229,OMOP2744690,Aztreonam,Marketed Product,Standard,0,0,Drug,RxNorm Extension
+,35749824,OMOP2751285,Aztreonam,Clinical Drug Box,Standard,0,0,Drug,RxNorm Extension
+,41024875,OMOP2222837,Aztreonam,Clinical Drug Box,Standard,0,0,Drug,RxNorm Extension
+,41024874,OMOP2222836,Aztreonam,Clinical Drug Box,Standard,0,0,Drug,RxNorm Extension
+,41193329,OMOP2391291,Aztreonam,Branded Drug,Standard,0,0,Drug,RxNorm Extension
+,41056135,OMOP2254097,Aztreonam,Clinical Drug,Standard,0,0,Drug,RxNorm Extension
+,40880983,OMOP2078945,Aztreonam,Branded Drug,Standard,0,0,Drug,RxNorm Extension
+,45262139,63323040220,Aztreonam,11-digit NDC,Non-Standard,0,0,Drug,NDC
+,45071868,55390017810,Aztreonam,11-digit NDC,Non-Standard,0,0,Drug,NDC
+,46253412,63323040230,Aztreonam,11-digit NDC,Non-Standard,0,0,Drug,NDC
+,45865754,63323040224,Aztreonam,11-digit NDC,Non-Standard,0,0,Drug,NDC
+,45178549,3257016,Aztreonam,11-digit NDC,Non-Standard,0,0,Drug,NDC
+,44906514,3224011,Aztreonam,11-digit NDC,Non-Standard,0,0,Drug,NDC
+,21132852,OMOP398512,Aztreonam,Branded Drug Box,Standard,0,0,Drug,RxNorm Extension
+,21172299,OMOP398513,Aztreonam,Marketed Product,Standard,0,0,Drug,RxNorm Extension
+,21093664,OMOP398510,Aztreonam,Marketed Product,Standard,0,0,Drug,RxNorm Extension
+,21142792,OMOP398509,Aztreonam,Clinical Drug Box,Standard,0,0,Drug,RxNorm Extension
+,41139861,OMOP2337823,Aztreonam,Clinical Drug Comp,Standard,0,0,Drug,RxNorm Extension
+,40861143,OMOP2059105,Aztreonam,Branded Drug Comp,Standard,0,0,Drug,RxNorm Extension
+,41266817,OMOP2464779,Aztreonam,Branded Drug Comp,Standard,0,0,Drug,RxNorm Extension
+,41274658,OMOP2472620,Aztreonam,Clinical Drug,Standard,0,0,Drug,RxNorm Extension
+,40912032,OMOP2109994,Aztreonam,Branded Drug,Standard,0,0,Drug,RxNorm Extension
+,41224350,OMOP2422312,Aztreonam,Branded Drug Box,Standard,0,0,Drug,RxNorm Extension
+,41162133,OMOP2360095,Aztreonam,Branded Drug Box,Standard,0,0,Drug,RxNorm Extension
+,40900220,OMOP2098182,Aztreonam,Clinical Drug Box,Standard,0,0,Drug,RxNorm Extension
+,40993871,OMOP2191833,Aztreonam,Clinical Drug Box,Standard,0,0,Drug,RxNorm Extension
+,41067922,OMOP2265884,Aztreonam,Branded Drug,Standard,0,0,Drug,RxNorm Extension
+,41202467,OMOP2400429,Aztreonam,Clinical Drug Comp,Standard,0,0,Drug,RxNorm Extension
+,1715144,315452,Aztreonam,Clinical Drug Comp,Non-Standard,0,0,Drug,RxNorm
+,40954658,OMOP2152620,Aztreonam,Branded Drug Comp,Standard,0,0,Drug,RxNorm Extension
+,19042988,573465,Aztreonam,Branded Drug Comp,Non-Standard,0,0,Drug,RxNorm
+,4320760,4012111,Aztreonam,VA Product,Non-Standard,0,0,Drug,VA Product
+,42854523,N0000160024,Aztreonam,VA Product,Non-Standard,0,0,Drug,VA Product
+,42546875,MTHU001392,Aztreonam,VA Product,Non-Standard,0,0,Drug,VA Product
+,41204977,OMOP2402939,Aztreonam,Branded Drug Comp,Standard,0,0,Drug,RxNorm Extension
+,19073780,308466,Aztreonam,Clinical Drug,Non-Standard,0,0,Drug,RxNorm
+,41212827,OMOP2410789,Aztreonam,Clinical Drug,Standard,0,0,Drug,RxNorm Extension
+,45093594,3223101,Aztreonam,11-digit NDC,Non-Standard,0,0,Drug,NDC
+,41162132,OMOP2360094,Aztreonam,Branded Drug,Standard,0,0,Drug,RxNorm Extension
+,44933523,51479004801,Aztreonam,11-digit NDC,Non-Standard,0,0,Drug,NDC
+,1715119,213589,Aztreonam,Branded Drug,Non-Standard,0,0,Drug,RxNorm
+,45366470,3223051,Aztreonam,11-digit NDC,Non-Standard,0,0,Drug,NDC
+,41067921,OMOP2265883,Aztreonam,Branded Drug Box,Standard,0,0,Drug,RxNorm Extension
+,40912031,OMOP2109993,Aztreonam,Branded Drug Box,Standard,0,0,Drug,RxNorm Extension
+,41243809,OMOP2441771,Aztreonam,Clinical Drug Box,Standard,0,0,Drug,RxNorm Extension
+,40962620,OMOP2160582,Aztreonam,Clinical Drug Box,Standard,0,0,Drug,RxNorm Extension
+,40869146,OMOP2067108,Aztreonam,Clinical Drug,Standard,0,0,Drug,RxNorm Extension
+,41099401,OMOP2297363,Aztreonam,Branded Drug,Standard,0,0,Drug,RxNorm Extension
+,4214928,417571004,Aztreonam,Pharma/Biol Product,Non-Standard,0,0,Drug,SNOMED
+,44894453,63323402,Aztreonam,9-digit NDC,Non-Standard,0,0,Drug,NDC
+,45212931,32570,Aztreonam,9-digit NDC,Non-Standard,0,0,Drug,NDC
+,45846708,633230402,Aztreonam,9-digit NDC,Non-Standard,0,0,Drug,NDC
+,45212930,32240,Aztreonam,9-digit NDC,Non-Standard,0,0,Drug,NDC
+,45409703,728,Aztreonam,Multum,Non-Standard,0,0,Drug,Multum
+,43060459,1003071,Aztreonam,Clinical Drug,Non-Standard,0,0,Drug,Multilex
+,45410930,731,Aztreonam,Multum,Non-Standard,0,0,Drug,Multum
+,42854525,N0000150214,Aztreonam,VA Product,Non-Standard,0,0,Drug,VA Product
+,42546877,MTHU001393,Aztreonam,VA Product,Non-Standard,0,0,Drug,VA Product
+,4277565,4002039#4277565,Aztreonam,VA Product,Non-Standard,0,0,Drug,VA Product
+,43082413,3003070,Aztreonam,Clinical Drug,Non-Standard,0,0,Drug,Multilex
+,37800097,60204020,Aztreonam,Gemscript,Non-Standard,0,0,Drug,Gemscript
+,37888923,96927996,Aztreonam,Gemscript THIN,Non-Standard,0,0,Drug,Gemscript
+,4207722,323962000,Aztreonam,Pharma/Biol Product,Non-Standard,0,0,Drug,SNOMED
+,37889161,96929996,Aztreonam,Gemscript THIN,Non-Standard,0,0,Drug,Gemscript
+,46098810,4343911000001100,Aztreonam,Pharma/Biol Product,Non-Standard,0,0,Drug,SNOMED
+,37800105,60208020,Aztreonam,Gemscript,Non-Standard,0,0,Drug,Gemscript
+,37889158,96928998,Aztreonam,Gemscript THIN,Non-Standard,0,0,Drug,Gemscript
+,19094972,340910,Aztreonam,Clinical Drug Comp,Non-Standard,0,0,Drug,RxNorm
+,19117663,566024,Aztreonam,Branded Drug Comp,Non-Standard,0,0,Drug,RxNorm
+,45281356,3250120,Aztreonam,11-digit NDC,Non-Standard,0,0,Drug,NDC
+,45366471,3255015,Aztreonam,11-digit NDC,Non-Standard,0,0,Drug,NDC
+,45059603,3250315,Aztreonam,11-digit NDC,Non-Standard,0,0,Drug,NDC
+,45281355,3250115,Aztreonam,11-digit NDC,Non-Standard,0,0,Drug,NDC
+,45159317,63323039720,Aztreonam,11-digit NDC,Non-Standard,0,0,Drug,NDC
+,45144400,3250310,Aztreonam,11-digit NDC,Non-Standard,0,0,Drug,NDC
+,45155657,54179004115,Aztreonam,11-digit NDC,Non-Standard,0,0,Drug,NDC
+,45247137,3250320,Aztreonam,11-digit NDC,Non-Standard,0,0,Drug,NDC
+,44923452,3250220,Aztreonam,11-digit NDC,Non-Standard,0,0,Drug,NDC
+,45110624,3250210,Aztreonam,11-digit NDC,Non-Standard,0,0,Drug,NDC
+,45008203,3250215,Aztreonam,11-digit NDC,Non-Standard,0,0,Drug,NDC
+,45110625,3257015,Aztreonam,11-digit NDC,Non-Standard,0,0,Drug,NDC
+,45144401,3256015,Aztreonam,11-digit NDC,Non-Standard,0,0,Drug,NDC
+,45195670,3255020,Aztreonam,11-digit NDC,Non-Standard,0,0,Drug,NDC
+,19073791,308467,Aztreonam,Clinical Drug,Non-Standard,0,0,Drug,RxNorm
+,19025854,201828,Aztreonam,Branded Drug,Non-Standard,0,0,Drug,RxNorm
+,45086534,51479004215,Aztreonam,11-digit NDC,Non-Standard,0,0,Drug,NDC
+,45031116,10130075225,Aztreonam,11-digit NDC,Non-Standard,0,0,Drug,NDC
+,44895652,12698004105,Aztreonam,11-digit NDC,Non-Standard,0,0,Drug,NDC
+,45291510,51479005230,Aztreonam,11-digit NDC,Non-Standard,0,0,Drug,NDC
+,44984226,51479005110,Aztreonam,11-digit NDC,Non-Standard,0,0,Drug,NDC
+,44980459,12698004005,Aztreonam,11-digit NDC,Non-Standard,0,0,Drug,NDC
+,44925451,338352841,Aztreonam,11-digit NDC,Non-Standard,0,0,Drug,NDC
+,45137481,51479004201,Aztreonam,11-digit NDC,Non-Standard,0,0,Drug,NDC
+,45031753,12698004205,Aztreonam,11-digit NDC,Non-Standard,0,0,Drug,NDC
+,45376546,51479004115,Aztreonam,11-digit NDC,Non-Standard,0,0,Drug,NDC
+,45076662,3257020,Aztreonam,11-digit NDC,Non-Standard,0,0,Drug,NDC
+,45188654,51479004100,Aztreonam,11-digit NDC,Non-Standard,0,0,Drug,NDC
+,44991129,3256010,Aztreonam,11-digit NDC,Non-Standard,0,0,Drug,NDC
+,45099156,10130075210,Aztreonam,11-digit NDC,Non-Standard,0,0,Drug,NDC
+,45120584,51479004110,Aztreonam,11-digit NDC,Non-Standard,0,0,Drug,NDC
+,45120585,51479004210,Aztreonam,11-digit NDC,Non-Standard,0,0,Drug,NDC
+,45161541,3256020,Aztreonam,11-digit NDC,Non-Standard,0,0,Drug,NDC
+,45188655,51479004101,Aztreonam,11-digit NDC,Non-Standard,0,0,Drug,NDC
+,45235765,10130075310,Aztreonam,11-digit NDC,Non-Standard,0,0,Drug,NDC
+,45321739,12698004100,Aztreonam,11-digit NDC,Non-Standard,0,0,Drug,NDC
+,45205867,51479004230,Aztreonam,11-digit NDC,Non-Standard,0,0,Drug,NDC
+,44848048,51479005005,Aztreonam,11-digit NDC,Non-Standard,0,0,Drug,NDC
+,44860745,10130075325,Aztreonam,11-digit NDC,Non-Standard,0,0,Drug,NDC
+,44889286,3257010,Aztreonam,11-digit NDC,Non-Standard,0,0,Drug,NDC
+,44933522,51479004005,Aztreonam,11-digit NDC,Non-Standard,0,0,Drug,NDC
+,44933524,51479005115,Aztreonam,11-digit NDC,Non-Standard,0,0,Drug,NDC
+,45008204,3255010,Aztreonam,11-digit NDC,Non-Standard,0,0,Drug,NDC
+,45052510,51479004010,Aztreonam,11-digit NDC,Non-Standard,0,0,Drug,NDC
+,45325503,51479004200,Aztreonam,11-digit NDC,Non-Standard,0,0,Drug,NDC
+,45334528,338352741,Aztreonam,11-digit NDC,Non-Standard,0,0,Drug,NDC
+,45342444,51479005210,Aztreonam,11-digit NDC,Non-Standard,0,0,Drug,NDC
+,1715145,315453,Aztreonam,Clinical Drug Comp,Non-Standard,0,0,Drug,RxNorm
+,19042989,573466,Aztreonam,Branded Drug Comp,Non-Standard,0,0,Drug,RxNorm
+,42854527,N0000160025,Aztreonam,VA Product,Non-Standard,0,0,Drug,VA Product
+,4321360,4012112,Aztreonam,VA Product,Non-Standard,0,0,Drug,VA Product
+,42546879,MTHU001394,Aztreonam,VA Product,Non-Standard,0,0,Drug,VA Product
+,19073792,308468,Aztreonam,Clinical Drug,Non-Standard,0,0,Drug,RxNorm
+,45308485,51479004910,Aztreonam,11-digit NDC,Non-Standard,0,0,Drug,NDC
+,44950419,51479004901,Aztreonam,11-digit NDC,Non-Standard,0,0,Drug,NDC
+,19047931,213590,Aztreonam,Branded Drug,Non-Standard,0,0,Drug,RxNorm
+,44991128,3224051,Aztreonam,11-digit NDC,Non-Standard,0,0,Drug,NDC
+,44855149,3224101,Aztreonam,11-digit NDC,Non-Standard,0,0,Drug,NDC
+,4166721,416051005,Aztreonam,Pharma/Biol Product,Non-Standard,0,0,Drug,SNOMED
+,21093665,OMOP398514,Aztreonam,Clinical Drug Comp,Standard,0,0,Drug,RxNorm Extension
+,44996203,63323397,Aztreonam,9-digit NDC,Non-Standard,0,0,Drug,NDC
+,21093666,OMOP398515,Aztreonam,Branded Drug Comp,Standard,0,0,Drug,RxNorm Extension
+,40861142,OMOP2059104,Aztreonam,Branded Drug Comp,Standard,0,0,Drug,RxNorm Extension
+,45413350,733,Aztreonam,Multum,Non-Standard,0,0,Drug,Multum
+,41274657,OMOP2472619,Aztreonam,Clinical Drug,Standard,0,0,Drug,RxNorm Extension
+,41193330,OMOP2391292,Aztreonam,Branded Drug,Standard,0,0,Drug,RxNorm Extension
+,41036680,OMOP2234642,Aztreonam,Branded Drug Box,Standard,0,0,Drug,RxNorm Extension
+,41162131,OMOP2360093,Aztreonam,Branded Drug Box,Standard,0,0,Drug,RxNorm Extension
+,35751556,OMOP2753017,Aztreonam,Marketed Product,Standard,0,0,Drug,RxNorm Extension
+,35743228,OMOP2744689,Aztreonam,Marketed Product,Standard,0,0,Drug,RxNorm Extension
+,41024876,OMOP2222838,Aztreonam,Clinical Drug Box,Standard,0,0,Drug,RxNorm Extension
+,41274656,OMOP2472618,Aztreonam,Clinical Drug Box,Standard,0,0,Drug,RxNorm Extension
+,41067920,OMOP2265882,Aztreonam,Branded Drug,Standard,0,0,Drug,RxNorm Extension
+,21172300,OMOP398516,Aztreonam,Clinical Drug,Standard,0,0,Drug,RxNorm Extension
+,21162572,OMOP398518,Aztreonam,Branded Drug,Standard,0,0,Drug,RxNorm Extension
+,21172301,OMOP398520,Aztreonam,Branded Drug Box,Standard,0,0,Drug,RxNorm Extension
+,21034781,OMOP398521,Aztreonam,Marketed Product,Standard,0,0,Drug,RxNorm Extension
+,21064309,OMOP398519,Aztreonam,Marketed Product,Standard,0,0,Drug,RxNorm Extension
+,21093667,OMOP398517,Aztreonam,Clinical Drug Box,Standard,0,0,Drug,RxNorm Extension
+,43060458,1003070,Aztreonam,Clinical Drug,Non-Standard,0,0,Drug,Multilex
+,37800093,60202020,Aztreonam,Gemscript,Non-Standard,0,0,Drug,Gemscript
+,37889163,96929998,Aztreonam,Gemscript THIN,Non-Standard,0,0,Drug,Gemscript
+,4207721,323960008,Aztreonam,Pharma/Biol Product,Non-Standard,0,0,Drug,SNOMED
+,46098814,4342711000001100,Aztreonam,Pharma/Biol Product,Non-Standard,0,0,Drug,SNOMED
+,42557994,4002037,Aztreonam,VA Product,Non-Standard,0,0,Drug,VA Product
+,42854526,N0000150212,Aztreonam,VA Product,Non-Standard,0,0,Drug,VA Product
+,42546878,MTHU001395,Aztreonam,VA Product,Non-Standard,0,0,Drug,VA Product
+,4282426,4002039#4282426,Aztreonam,VA Product,Non-Standard,0,0,Drug,VA Product
+,41108497,OMOP2306459,Aztreonam,Clinical Drug Comp,Standard,0,0,Drug,RxNorm Extension
+,40923421,OMOP2121383,Aztreonam,Branded Drug Comp,Standard,0,0,Drug,RxNorm Extension
+,40861141,OMOP2059103,Aztreonam,Branded Drug Comp,Standard,0,0,Drug,RxNorm Extension
+,41056134,OMOP2254096,Aztreonam,Clinical Drug,Standard,0,0,Drug,RxNorm Extension
+,40912030,OMOP2109992,Aztreonam,Branded Drug,Standard,0,0,Drug,RxNorm Extension
+,40880982,OMOP2078944,Aztreonam,Branded Drug Box,Standard,0,0,Drug,RxNorm Extension
+,40943284,OMOP2141246,Aztreonam,Branded Drug Box,Standard,0,0,Drug,RxNorm Extension
+,40962619,OMOP2160581,Aztreonam,Clinical Drug Box,Standard,0,0,Drug,RxNorm Extension
+,41274655,OMOP2472617,Aztreonam,Clinical Drug Box,Standard,0,0,Drug,RxNorm Extension
+,41099399,OMOP2297361,Aztreonam,Branded Drug,Standard,0,0,Drug,RxNorm Extension
+,21142793,OMOP398524,Aztreonam,Clinical Drug Comp,Standard,0,0,Drug,RxNorm Extension
+,44573644,OMOP175892,Aztreonam,Clinical Drug Comp,Non-Standard,0,0,Drug,DPD
+,21054449,OMOP398525,Aztreonam,Branded Drug Comp,Standard,0,0,Drug,RxNorm Extension
+,44545683,OMOP141740,Aztreonam,Branded Drug Comp,Non-Standard,0,0,Drug,DPD
+,36891867,OMOP989625,Aztreonam,Clinical Drug,Standard,0,0,Drug,RxNorm Extension
+,36881194,OMOP995190,Aztreonam,Clinical Drug Box,Standard,0,0,Drug,RxNorm Extension
+,36888052,OMOP1004720,Aztreonam,Branded Drug,Standard,0,0,Drug,RxNorm Extension
+,36882274,OMOP999057,Aztreonam,Branded Drug Box,Standard,0,0,Drug,RxNorm Extension
+,43195334,OMOP496193,Aztreonam,Marketed Product,Standard,0,0,Drug,RxNorm Extension
+,21132853,OMOP398526,Aztreonam,Clinical Drug,Standard,0,0,Drug,RxNorm Extension
+,21025057,OMOP398527,Aztreonam,Clinical Drug Box,Standard,0,0,Drug,RxNorm Extension
+,21152670,OMOP398528,Aztreonam,Branded Drug,Standard,0,0,Drug,RxNorm Extension
+,21103570,OMOP398530,Aztreonam,Branded Drug Box,Standard,0,0,Drug,RxNorm Extension
+,21054450,OMOP398531,Aztreonam,Marketed Product,Standard,0,0,Drug,RxNorm Extension
+,35412539,OMOP1146124,Aztreonam,Marketed Product,Non-Standard,0,0,Drug,RxNorm Extension
+,21162573,OMOP398529,Aztreonam,Marketed Product,Standard,0,0,Drug,RxNorm Extension
+,45413979,25922,Aztreonam,Multum,Non-Standard,0,0,Drug,Multum
+,44652070,OMOP213736,Aztreonam,Clinical Drug,Non-Standard,0,0,Drug,DPD
+,36267509,OMOP3118384,Aztreonam,Clinical Drug,Standard,0,0,Drug,RxNorm Extension
+,36270009,OMOP3120884,Aztreonam,Clinical Drug Box,Standard,0,0,Drug,RxNorm Extension
+,36258170,OMOP3109045,Aztreonam,Branded Drug,Standard,0,0,Drug,RxNorm Extension
+,36265839,OMOP3116714,Aztreonam,Branded Drug Box,Standard,0,0,Drug,RxNorm Extension
+,45056948,61958090101,Aztreonam,11-digit NDC,Non-Standard,0,0,Drug,NDC
+,45346916,61958090110,Aztreonam,11-digit NDC,Non-Standard,0,0,Drug,NDC
+,45963473,1.74630110000011E+016,Aztreonam,Pharma/Biol Product,Non-Standard,0,0,Drug,SNOMED
+,37764510,37435020,Aztreonam,Gemscript,Non-Standard,0,0,Drug,Gemscript
+,46084306,1.74631110000011E+016,Aztreonam,Pharma/Biol Product,Non-Standard,0,0,Drug,SNOMED
+,37832668,98559020,Aztreonam,Gemscript,Non-Standard,0,0,Drug,Gemscript
+,45963474,1.74634110000011E+016,Aztreonam,Pharma/Biol Product,Non-Standard,0,0,Drug,SNOMED
+,37854609,82085998,Aztreonam,Gemscript THIN,Non-Standard,0,0,Drug,Gemscript
+,37858994,82074998,Aztreonam,Gemscript THIN,Non-Standard,0,0,Drug,Gemscript
+,46084305,1.74635110000011E+016,Aztreonam,Pharma/Biol Product,Non-Standard,0,0,Drug,SNOMED
+,40483744,445432007,Aztreonam,Pharma/Biol Product,Non-Standard,0,0,Drug,SNOMED
+,43074550,1017914,Aztreonam,Clinical Drug,Non-Standard,0,0,Drug,Multilex
+,42861007,N0000181626,Aztreonam,VA Product,Non-Standard,0,0,Drug,VA Product
+,40227229,4030018,Aztreonam,VA Product,Non-Standard,0,0,Drug,VA Product
+,4272847,N0000021878,Aztreonam,Pharma Preparation,Non-Standard,0,0,Drug,NDFRT
+,43173476,OMOP496190,Aztreonam,Clinical Drug Form,Standard,0,0,Drug,RxNorm Extension
+,43173477,OMOP496191,Aztreonam,Branded Drug Form,Standard,0,0,Drug,RxNorm Extension
+,42483137,OMOP418845,Aztreonam,Clinical Drug Form,Standard,0,0,Drug,RxNorm Extension
+,42481360,OMOP418846,Aztreonam,Branded Drug Form,Standard,0,0,Drug,RxNorm Extension
+,44575440,OMOP201200,Aztreonam,Clinical Drug Form,Non-Standard,0,0,Drug,DPD
+,44610937,OMOP230003,Aztreonam,Branded Drug Form,Non-Standard,0,0,Drug,DPD
+,2720970,S0143,Aztreonam,HCPCS,Non-Standard,0,0,Drug,HCPCS
+,41298738,OMOP2496700,Aztreonam,Clinical Drug Form,Standard,0,0,Drug,RxNorm Extension
+,40013103,376825,Aztreonam,Clinical Drug Form,Non-Standard,0,0,Drug,RxNorm
+,40013104,91897,Aztreonam,Branded Drug Form,Non-Standard,0,0,Drug,RxNorm
+,40833216,OMOP2031178,Aztreonam,Branded Drug Form,Standard,0,0,Drug,RxNorm Extension
+,40926576,OMOP2124538,Aztreonam,Branded Drug Form,Standard,0,0,Drug,RxNorm Extension
+,40986748,OMOP2184710,Aztreonam,Clinical Drug Form,Standard,0,0,Drug,RxNorm Extension
+,40957842,OMOP2155804,Aztreonam,Branded Drug Form,Standard,0,0,Drug,RxNorm Extension
+,45244605,619580901,Aztreonam,9-digit NDC,Non-Standard,0,0,Drug,NDC
+,42535926,734461007,Aztreonam,Substance,Non-Standard,0,0,Drug,SNOMED
+,43236233,65045,Aztreonam,Ingredient,Non-Standard,0,0,Drug,BDPM
+,36887580,OMOP994427,Aztreonam,Clinical Drug Form,Standard,0,0,Drug,RxNorm Extension
+,36892572,OMOP1003246,Aztreonam,Branded Drug Form,Standard,0,0,Drug,RxNorm Extension
+,2720926,S0073,Aztreonam,HCPCS,Non-Standard,0,0,Drug,HCPCS

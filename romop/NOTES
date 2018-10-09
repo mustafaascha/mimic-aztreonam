@@ -1,0 +1,27 @@
+
+
+Overarching question: How can we best represent OMOP CDM **inquiries**? 
+
+Inquiry: A query of an OMOP CDM, irrespective of technology in use (could be using Atlas, SQL, or by hand with printed records)
+
+Goal: A language that, given a set of concept IDs and a database configuration, enables my mom to assemble a cohort of people with those concept IDs
+
+Criteria to meet the goal: 
+- Expressive (we write what we want, not what the language needs)    
+- Comprehensive (access data in the way we want it)    
+- Performant (doesn't take forever, works on multiple database technologies)     
+
+Assumptions:    
+- Unidirectional data flow -- We are only pulling data, not inserting it ([see here](https://martinfowler.com/bliki/OrmHate.html) and associated arguments for [CQRS](https://martinfowler.com/bliki/CQRS.html))    
+- **This is not a CRUD database application**, it is selfish and intended for a single person to quickly iterate through OMOP CDM investigations 
+
+Future:  
+- Enable vocab queries from the database being inquiried    
+- Voice-to-text inquiries ("everyone %who_took% digoxin")
+    - Dispatch on 'everyone' and 'digoxin'
+    - rhs unavailable --> search vocab and catch matching concept ids
+- give each table its own class? 
+    - create a constructor, validator, and helper for each
+    - provide addition, subtraction, etc with method dispatch for each class
+    - this would presumably allow left-joins to the table on the left, more precise operations would require a function call rather than infix
+    - base class: CDM; children: each table; all build with the dataframe as the unit interface

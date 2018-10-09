@@ -1,0 +1,78 @@
+---
+title: 'Aztreonam in MIMIC: Poster Report'
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output:
+  pdf_document:
+    includes:
+      in_header: header.tex
+    toc: yes
+bibliography: bibliography.bib
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library(pander)
+source("src/analysis/analysis.R")
+```
+
+\pagebreak 
+
+# Purpose
+
+This document contains results from and expands on a preliminary report, the purpose of which was to identify whether there is a difference in rates of drug-induced liver injury (DILI) between patients using aztreonam compared to ceftazidime. 
+
+# Notes  
+
+- Propensity score matching was not performed because the chances of receiving either aztreonam or ceftazidime were considered approximately the same.    
+
+# Statistical Methods
+
+## Data sources and mapping
+
+Data and its mapping to the OMOP-CDM were both kindly made available by the Laboratory for Computational Physiology at the Massachusetts Institute of Technology [@paris, @pollard, @johnson]. 
+
+## Defining drug-induced liver injury
+
+Drug-induced liver injury was defined as the occurrence of abnormal liver function tests (LFTs) following drug administration for at least three days. Abnormal liver function tests included serum alanine aminotransferase (ALT) values greater than 150 IU/L, alkaline phosphatase (ALP) greater than 320 IU/L, or ALT greater than 90 IU/L in the presence of total serum bilirubin greater than 2 mg/dL. These definitions are based on the upper limit of normal (ULN) values for each test, where the ULN for ALT is 30 IU/L and for ALP is 160 IU/L. 
+
+Liver function testing between three days after the first treatment and seven days after the last treatment were used to determine the presence of elevated LFTs. Values for subjects with multiple LFTs within the measurement period (three days after treatment initiation through seven days after treatment conclusion) were taken to be the median of those test results. 
+
+## Population selection 
+
+Patients must have had a record of receiving antibiotics of interest for at least three days according to the concept IDs provided below. For subjects with more than one record of any antibiotic of interest, only the first record was used. 
+
+## Statistical analysis
+
+Initial analysis included only ceftazidime and aztreonam. Logistic regression was performed to ascertain odds ratios of DILI on the basis of prescribed drug, where the reference level for each drug was the group of patients who received Aztreonam. 
+
+Statistical significance was defined as a p-value less than 0.05. 
+
+\pagebreak 
+
+# Results
+
+## Ceftazidime vs Aztreonam
+
+The following sections reflect the same patient population that was reported in our OHDSI symposium abstract. 
+
+### Clinical and Demographic Characteristics
+
+```{r cd-ca}
+pander(paper_products$table_one_drugs, split.table = Inf)
+```
+
+### DILI Counts
+
+```{r counts-ca}
+pander(paper_products$dilis)
+```
+
+### Logistic regression            
+
+```{r lr-u-ca}
+pander(paper_products$uv_mdl)
+```
+
+\pagebreak 
+
+# References

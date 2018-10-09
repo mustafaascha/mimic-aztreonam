@@ -1,0 +1,344 @@
+code,name,indication
+R7881,Bacteremia,Bacteremia
+T80211,Bloodstream infection due to central venous catheter,Bacteremia
+T80219,Unspecified infections due to central venous catheter,Bacteremia
+G00,"Bacterial meningitis, not elsewhere classified",Neurologic
+G01,Meningitis in bacterial diseases classified elsewhere,Neurologic
+G02,Meningitis in other infectious and parasitic diseases classified elsewhere,Neurologic
+G03,Meningitis due to other and unspecified causes,Neurologic
+G060,Intracranial and intraspinal abscess and granuloma,Neurologic
+G061,Intracranial and intraspinal abscess and granuloma,Neurologic
+G062,Intracranial and intraspinal abscess and granuloma,Neurologic
+G063,Intracranial and intraspinal abscess and granuloma,Neurologic
+G064,Intracranial and intraspinal abscess and granuloma,Neurologic
+G065,Intracranial and intraspinal abscess and granuloma,Neurologic
+G066,Intracranial and intraspinal abscess and granuloma,Neurologic
+G067,Intracranial and intraspinal abscess and granuloma,Neurologic
+G068,Intracranial and intraspinal abscess and granuloma,Neurologic
+G069,Intracranial and intraspinal abscess and granuloma,Neurologic
+G9782,Other postprocedural complications and disorders of nervous system,Neurologic
+I301,Infective pericarditis,Cardiac
+I330,Acute and subacute infective endocarditis,Cardiac
+I331,Acute and subacute infective endocarditis,Cardiac
+I332,Acute and subacute infective endocarditis,Cardiac
+I333,Acute and subacute infective endocarditis,Cardiac
+I334,Acute and subacute infective endocarditis,Cardiac
+I335,Acute and subacute infective endocarditis,Cardiac
+I336,Acute and subacute infective endocarditis,Cardiac
+I337,Acute and subacute infective endocarditis,Cardiac
+I338,Acute and subacute infective endocarditis,Cardiac
+I339,Acute and subacute infective endocarditis,Cardiac
+I38,"Endocarditis, valve unspecified",Cardiac
+I39,Endocarditis and heart valve disorders in diseases classified elsewhere,Cardiac
+A3790,"Whooping Cough, Unspecified Species Without",Pulmonary and Chest
+J0190,"Acute Sinusitis, Unspecified",Pulmonary and Chest
+J020,Streptococcal Pharyngitis,Pulmonary and Chest
+J029,"Acute Pharyngitis, Unspecified",Pulmonary and Chest
+J0390,"Acute Tonsillitis, Unspecified",Pulmonary and Chest
+J069,"Acute Upper Respiratory Infection, Unspecified",Pulmonary and Chest
+J15,"Bacterial pneumonia, not elsewhere classified",Pulmonary and Chest
+J155,Pneumonia due to Escherichia coli,Pulmonary and Chest
+J159,Unspecified bacterial pneumonia,Pulmonary and Chest
+J168,Pneumonia due to other specified infectious organisms,Pulmonary and Chest
+J17,Pneumonia in diseases classified elsewhere,Pulmonary and Chest
+J18,"Pneumonia, unspecified organism",Pulmonary and Chest
+J209,"Acute Bronchitis, Unspecified",Pulmonary and Chest
+J329,"Chronic Sinusitis, Unspecified",Pulmonary and Chest
+J850,Abscess of lung and mediastinum,Pulmonary and Chest
+J851,Abscess of lung and mediastinum,Pulmonary and Chest
+J852,Abscess of lung and mediastinum,Pulmonary and Chest
+J853,Abscess of lung and mediastinum,Pulmonary and Chest
+J854,Abscess of lung and mediastinum,Pulmonary and Chest
+J855,Abscess of lung and mediastinum,Pulmonary and Chest
+J856,Abscess of lung and mediastinum,Pulmonary and Chest
+J857,Abscess of lung and mediastinum,Pulmonary and Chest
+J858,Abscess of lung and mediastinum,Pulmonary and Chest
+J859,Abscess of lung and mediastinum,Pulmonary and Chest
+J860,Pyothorax,Pulmonary and Chest
+J861,Pyothorax,Pulmonary and Chest
+J862,Pyothorax,Pulmonary and Chest
+J863,Pyothorax,Pulmonary and Chest
+J864,Pyothorax,Pulmonary and Chest
+J865,Pyothorax,Pulmonary and Chest
+J866,Pyothorax,Pulmonary and Chest
+J867,Pyothorax,Pulmonary and Chest
+J868,Pyothorax,Pulmonary and Chest
+J869,Pyothorax,Pulmonary and Chest
+J9851,Mediastinitis,Pulmonary and Chest
+R091,Pleurisy,Pulmonary and Chest
+A039,"Shigellosis, Unspecified",Abdominal and Gastrointestinal
+A047,Enterocolitis Due to Clostridium Difficile,Abdominal and Gastrointestinal
+A059,"Bacterial Foodborne Intoxication, Unspecified",Abdominal and Gastrointestinal
+D733,Abscess of spleen,Abdominal and Gastrointestinal
+D7889,Other postprocedural complications of the spleen,Abdominal and Gastrointestinal
+K610,Abscess of anal and rectal regions,Abdominal and Gastrointestinal
+K611,Abscess of anal and rectal regions,Abdominal and Gastrointestinal
+K612,Abscess of anal and rectal regions,Abdominal and Gastrointestinal
+K613,Abscess of anal and rectal regions,Abdominal and Gastrointestinal
+K614,Abscess of anal and rectal regions,Abdominal and Gastrointestinal
+K615,Abscess of anal and rectal regions,Abdominal and Gastrointestinal
+K616,Abscess of anal and rectal regions,Abdominal and Gastrointestinal
+K617,Abscess of anal and rectal regions,Abdominal and Gastrointestinal
+K618,Abscess of anal and rectal regions,Abdominal and Gastrointestinal
+K619,Abscess of anal and rectal regions,Abdominal and Gastrointestinal
+K630,Abscess of intestine,Abdominal and Gastrointestinal
+K65,Peritonitis,Abdominal and Gastrointestinal
+K678,Disorders of peritoneum in infectious diseases classified elsewhere,Abdominal and Gastrointestinal
+K6810,Retroperitoneal abscess,Abdominal and Gastrointestinal
+K6811,Retroperitoneal abscess,Abdominal and Gastrointestinal
+K6812,Retroperitoneal abscess,Abdominal and Gastrointestinal
+K6813,Retroperitoneal abscess,Abdominal and Gastrointestinal
+K6814,Retroperitoneal abscess,Abdominal and Gastrointestinal
+K6815,Retroperitoneal abscess,Abdominal and Gastrointestinal
+K6816,Retroperitoneal abscess,Abdominal and Gastrointestinal
+K6817,Retroperitoneal abscess,Abdominal and Gastrointestinal
+K6818,Retroperitoneal abscess,Abdominal and Gastrointestinal
+K6819,Retroperitoneal abscess,Abdominal and Gastrointestinal
+K8592,"Acute pancreatitis with infected necrosis, unspecified",Abdominal and Gastrointestinal
+K9189,Other postprocedural complications and disorders of digestive system,Abdominal and Gastrointestinal
+K750,Abscess of liver,Liver/ Biliary
+K830,Cholangitis,Liver/ Biliary
+M0080,Arthritis and polyarthritis due to other bacteria,Bone / musculoskeletal / Joint
+M0081,Arthritis and polyarthritis due to other bacteria,Bone / musculoskeletal / Joint
+M0082,Arthritis and polyarthritis due to other bacteria,Bone / musculoskeletal / Joint
+M0083,Arthritis and polyarthritis due to other bacteria,Bone / musculoskeletal / Joint
+M0084,Arthritis and polyarthritis due to other bacteria,Bone / musculoskeletal / Joint
+M0085,Arthritis and polyarthritis due to other bacteria,Bone / musculoskeletal / Joint
+M0086,Arthritis and polyarthritis due to other bacteria,Bone / musculoskeletal / Joint
+M0087,Arthritis and polyarthritis due to other bacteria,Bone / musculoskeletal / Joint
+M0088,Arthritis and polyarthritis due to other bacteria,Bone / musculoskeletal / Joint
+M0089,Arthritis and polyarthritis due to other bacteria,Bone / musculoskeletal / Joint
+M009,"Pyogenic arthritis, unspecified",Bone / musculoskeletal / Joint
+M010,Direct infections of joint in infectious and parasitic diseases classified elsewhere,Bone / musculoskeletal / Joint
+M011,Direct infections of joint in infectious and parasitic diseases classified elsewhere,Bone / musculoskeletal / Joint
+M012,Direct infections of joint in infectious and parasitic diseases classified elsewhere,Bone / musculoskeletal / Joint
+M013,Direct infections of joint in infectious and parasitic diseases classified elsewhere,Bone / musculoskeletal / Joint
+M014,Direct infections of joint in infectious and parasitic diseases classified elsewhere,Bone / musculoskeletal / Joint
+M015,Direct infections of joint in infectious and parasitic diseases classified elsewhere,Bone / musculoskeletal / Joint
+M016,Direct infections of joint in infectious and parasitic diseases classified elsewhere,Bone / musculoskeletal / Joint
+M017,Direct infections of joint in infectious and parasitic diseases classified elsewhere,Bone / musculoskeletal / Joint
+M018,Direct infections of joint in infectious and parasitic diseases classified elsewhere,Bone / musculoskeletal / Joint
+M019,Direct infections of joint in infectious and parasitic diseases classified elsewhere,Bone / musculoskeletal / Joint
+M463,Infection of intervertebral disc (pyogenic),Bone / musculoskeletal / Joint
+M7100,Abscess of bursa,Bone / musculoskeletal / Joint
+M7101,Abscess of bursa,Bone / musculoskeletal / Joint
+M7102,Abscess of bursa,Bone / musculoskeletal / Joint
+M7103,Abscess of bursa,Bone / musculoskeletal / Joint
+M7104,Abscess of bursa,Bone / musculoskeletal / Joint
+M7105,Abscess of bursa,Bone / musculoskeletal / Joint
+M7106,Abscess of bursa,Bone / musculoskeletal / Joint
+M7107,Abscess of bursa,Bone / musculoskeletal / Joint
+M7108,Abscess of bursa,Bone / musculoskeletal / Joint
+M7109,Abscess of bursa,Bone / musculoskeletal / Joint
+M7110,Other infective bursitis,Bone / musculoskeletal / Joint
+M7111,Other infective bursitis,Bone / musculoskeletal / Joint
+M7112,Other infective bursitis,Bone / musculoskeletal / Joint
+M7113,Other infective bursitis,Bone / musculoskeletal / Joint
+M7114,Other infective bursitis,Bone / musculoskeletal / Joint
+M7115,Other infective bursitis,Bone / musculoskeletal / Joint
+M7116,Other infective bursitis,Bone / musculoskeletal / Joint
+M7117,Other infective bursitis,Bone / musculoskeletal / Joint
+M7118,Other infective bursitis,Bone / musculoskeletal / Joint
+M7119,Other infective bursitis,Bone / musculoskeletal / Joint
+L02419,Abscess Of Lower Limb,Skin and soft tissues
+L0291,"Cutaneous Abscess, Unspecified",Skin and soft tissues
+L03119,Cellulitis Of Lower Limb,Skin and soft tissues
+L0390,Cellulitis Of Lower Limb,Skin and soft tissues
+L0889,Other Specified Local Infections Of The Skin And Subcutaneous Tissue,Skin and soft tissues
+L089,"Local Infection Of The Skin And Subcutaneous Tissue, Unspecified",Skin and soft tissues
+L7682,Other postprocedural complications of skin and subcutaneous tissue,Skin and soft tissues
+M600,Infective myositis,Skin and soft tissues
+M726,Necrotizing fasciitis,Skin and soft tissues
+O9110,"Abscess of breast associated with pregnancy, the puerperium and lactation",Skin and soft tissues
+O9111,"Abscess of breast associated with pregnancy, the puerperium and lactation",Skin and soft tissues
+O9112,"Abscess of breast associated with pregnancy, the puerperium and lactation",Skin and soft tissues
+O9113,"Abscess of breast associated with pregnancy, the puerperium and lactation",Skin and soft tissues
+O9114,"Abscess of breast associated with pregnancy, the puerperium and lactation",Skin and soft tissues
+O9115,"Abscess of breast associated with pregnancy, the puerperium and lactation",Skin and soft tissues
+O9116,"Abscess of breast associated with pregnancy, the puerperium and lactation",Skin and soft tissues
+O9117,"Abscess of breast associated with pregnancy, the puerperium and lactation",Skin and soft tissues
+O9118,"Abscess of breast associated with pregnancy, the puerperium and lactation",Skin and soft tissues
+O9119,"Abscess of breast associated with pregnancy, the puerperium and lactation",Skin and soft tissues
+A510,Primary Genital Syphilis,Genital and Urinary Tract
+A539,"Syphilis, Unspecified",Genital and Urinary Tract
+A5400,"Gonococcal Infection Of Lower Genitourinary Tract, Unspecified",Genital and Urinary Tract
+A638,Other Specified Predominantly Sexually Transmitted Diseases,Genital and Urinary Tract
+A749,"Chlamydial Infection, Unspecified",Genital and Urinary Tract
+N10,Acute pyelonephritis,Genital and Urinary Tract
+N151,Renal and perinephric abscess,Genital and Urinary Tract
+N30,Cystitis,Genital and Urinary Tract
+N340,Urethritis and urethral syndrome,Genital and Urinary Tract
+N341,Urethritis and urethral syndrome,Genital and Urinary Tract
+N342,Urethritis and urethral syndrome,Genital and Urinary Tract
+N343,Urethritis and urethral syndrome,Genital and Urinary Tract
+N344,Urethritis and urethral syndrome,Genital and Urinary Tract
+N345,Urethritis and urethral syndrome,Genital and Urinary Tract
+N346,Urethritis and urethral syndrome,Genital and Urinary Tract
+N347,Urethritis and urethral syndrome,Genital and Urinary Tract
+N348,Urethritis and urethral syndrome,Genital and Urinary Tract
+N349,Urethritis and urethral syndrome,Genital and Urinary Tract
+N390,"Urinary tract infection, site not specified",Genital and Urinary Tract
+N410,Acute prostatitis,Genital and Urinary Tract
+N411,Chronic prostatitis,Genital and Urinary Tract
+N412,Abscess of prostate,Genital and Urinary Tract
+N413,Prostato‐cystitis,Genital and Urinary Tract
+N431,Infected hydrocele,Genital and Urinary Tract
+N450,Orchitis and epididymitis,Genital and Urinary Tract
+N451,Orchitis and epididymitis,Genital and Urinary Tract
+N452,Orchitis and epididymitis,Genital and Urinary Tract
+N453,Orchitis and epididymitis,Genital and Urinary Tract
+N454,Orchitis and epididymitis,Genital and Urinary Tract
+N455,Orchitis and epididymitis,Genital and Urinary Tract
+N456,Orchitis and epididymitis,Genital and Urinary Tract
+N457,Orchitis and epididymitis,Genital and Urinary Tract
+N458,Orchitis and epididymitis,Genital and Urinary Tract
+N459,Orchitis and epididymitis,Genital and Urinary Tract
+N700,Salpingitis and oophoritis,Genital and Urinary Tract
+N701,Salpingitis and oophoritis,Genital and Urinary Tract
+N702,Salpingitis and oophoritis,Genital and Urinary Tract
+N703,Salpingitis and oophoritis,Genital and Urinary Tract
+N704,Salpingitis and oophoritis,Genital and Urinary Tract
+N705,Salpingitis and oophoritis,Genital and Urinary Tract
+N706,Salpingitis and oophoritis,Genital and Urinary Tract
+N707,Salpingitis and oophoritis,Genital and Urinary Tract
+N708,Salpingitis and oophoritis,Genital and Urinary Tract
+N709,Salpingitis and oophoritis,Genital and Urinary Tract
+N764,Abscess of vulva,Genital and Urinary Tract
+N9989,Other postprocedural complications and disorders of genitourinary system,Genital and Urinary Tract
+O0337,Sepsis following incomplete spontaneous abortion,Genital and Urinary Tract
+O0387,Sepsis following complete or unspecified spontaneous abortion,Genital and Urinary Tract
+O0487,Sepsis following (induced) termination of pregnancy,Genital and Urinary Tract
+O0737,Sepsis following failed attempted termination of pregnancy,Genital and Urinary Tract
+O0882,Sepsis following ectopic and molar pregnancy,Genital and Urinary Tract
+O753,Sepsis during labor,Genital and Urinary Tract
+O85,Puerperal sepsis,Genital and Urinary Tract
+O860,Other puerperal infections,Genital and Urinary Tract
+O861,Other puerperal infections,Genital and Urinary Tract
+O862,Other puerperal infections,Genital and Urinary Tract
+O863,Other puerperal infections,Genital and Urinary Tract
+O864,Other puerperal infections,Genital and Urinary Tract
+O865,Other puerperal infections,Genital and Urinary Tract
+O866,Other puerperal infections,Genital and Urinary Tract
+O867,Other puerperal infections,Genital and Urinary Tract
+O868,Other puerperal infections,Genital and Urinary Tract
+O869,Other puerperal infections,Genital and Urinary Tract
+A41,Other sepsis,Infection without further specification
+A49,Bacterial infection of unspecified site,Infection without further specification
+B9562,Methicillin Resistant Staphylococcus Aureus Infection As The Cause Of Diseases Classified Elsewhere,Infection without further specification
+B96,Other bacterial agents as the cause of diseases classified to other chapters,Infection without further specification
+R50,Fever of other and unknown origin,Infection without further specification
+R65,Symptoms and signs specifically associated with systemic inflammation and infection,Infection without further specification
+R652,Severe sepsis,Infection without further specification
+T8022,"Acute infection following infusion, transfusion and therapeutic injection",Infection without further specification
+T80290A,"Infection Following Other Infusion, Transfusion, And Therapeutic Injection, Initial Encounter",Infection without further specification
+T80291A,"Infection Following Other Infusion, Transfusion, And Therapeutic Injection, Initial Encounter",Infection without further specification
+T80292A,"Infection Following Other Infusion, Transfusion, And Therapeutic Injection, Initial Encounter",Infection without further specification
+T80293A,"Infection Following Other Infusion, Transfusion, And Therapeutic Injection, Initial Encounter",Infection without further specification
+T80294A,"Infection Following Other Infusion, Transfusion, And Therapeutic Injection, Initial Encounter",Infection without further specification
+T80295A,"Infection Following Other Infusion, Transfusion, And Therapeutic Injection, Initial Encounter",Infection without further specification
+T80296A,"Infection Following Other Infusion, Transfusion, And Therapeutic Injection, Initial Encounter",Infection without further specification
+T80297A,"Infection Following Other Infusion, Transfusion, And Therapeutic Injection, Initial Encounter",Infection without further specification
+T80298A,"Infection Following Other Infusion, Transfusion, And Therapeutic Injection, Initial Encounter",Infection without further specification
+T80299A,"Infection Following Other Infusion, Transfusion, And Therapeutic Injection, Initial Encounter",Infection without further specification
+T814,Infection following a procedure,Infection without further specification
+T88000A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88001A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88002A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88003A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88004A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88005A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88006A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88007A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88008A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88009A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88010A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88011A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88012A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88013A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88014A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88015A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88016A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88017A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88018A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88019A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88020A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88021A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88022A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88023A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88024A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88025A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88026A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88027A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88028A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88029A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88030A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88031A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88032A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88033A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88034A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88035A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88036A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88037A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88038A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88039A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88040A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88041A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88042A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88043A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88044A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88045A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88046A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88047A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88048A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88049A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88050A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88051A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88052A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88053A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88054A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88055A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88056A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88057A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88058A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88059A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88060A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88061A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88062A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88063A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88064A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88065A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88066A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88067A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88068A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88069A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88070A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88071A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88072A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88073A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88074A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88075A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88076A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88077A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88078A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88079A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88080A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88081A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88082A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88083A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88084A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88085A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88086A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88087A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88088A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88089A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88090A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88091A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88092A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88093A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88094A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88095A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88096A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88097A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88098A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+T88099A,"Infection Following Immunization, Initial Encounter",Infection without further specification
+Z119,"Encounter For Screening For Infectious And Parasitic Diseases, Unspecified",Infection without further specification

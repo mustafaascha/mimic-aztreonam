@@ -8,7 +8,7 @@ To reproduce this work (which is possible because you can use the *exact same da
 
 Study preparation requires [setting up a PostgreSQL database with MIMIC III data](https://github.com/MIT-LCP/mimic-code), and then running an [ETL to the OMOP CDM V5](https://github.com/MIT-LCP/mimic-omop).
 
-After setting up your database, enter its credentials in the cdmdb/R/db-config.R file. If you prefer not to write your password in plaintext, uncomment the line including `.rs.askForPassword('Enter password:')`. 
+After setting up your database, enter its credentials in the cdmdb/R/db-config.R file. If you prefer not to write your password in plaintext, you can have RStudio prompt for a password by uncommenting the line including `.rs.askForPassword('Enter password:')`. Note that this doesn't work for knitting the file, however, and requires you to run and open a script/Rmd in RStudio. 
 
 From there, assuming you have a working installation of R and relevant dependencies, you may knit the report with `make report`. 
 
